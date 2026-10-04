@@ -1,6 +1,6 @@
 # Student Performance Analyzer (`performance_analyzer`)
 
-A modular, production-grade Python package for score input validation, automated grading rules, and class performance analytics. Built as part of **Industry Skill Studio 03** (*Python Programming & Software Automation - Y1UD102B*).
+A modular, production-grade Python package for score input validation, automated grading rules, and class performance analytics. Built as part of **Industry Skill Studio 03** (*Python for Data, Intelligence and Security - Y1UD102B*).
 
 ---
 
